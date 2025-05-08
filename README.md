@@ -49,7 +49,20 @@ It's an ongoing project intended for educational purposes, workshops, and interv
 
 ## Directory Structure
 ```
-rdbms-arena/ ├── postgresql/ │   ├── schema.sql │   ├── queries/ │   └── erd.png ├── mysql/ │   ├── schema.sql │   ├── queries/ │   └── erd.png ├── sqlite/ │   ├── schema.sql │   ├── queries/ │   └── erd.png └── README.md
+rdbms-arena/ 
+├── postgresql/ 
+│   ├── schema.sql 
+│   ├── queries/ 
+│   └── erd.png 
+├── mysql/ 
+│   ├── schema.sql 
+│   ├── queries/ 
+│   └── erd.png 
+├── sqlite/ 
+│   ├── schema.sql 
+│   ├── queries/ 
+│   └── erd.png 
+└── README.md
 ```
 ---
 

@@ -1,7 +1,8 @@
 
 # rdbms-arena
 
-Welcome to **rdbms-arena**, a comprehensive practice hub for SQL queries across multiple relational database systems including **PostgreSQL**, **MySQL**, and **SQLite**. This repository is designed to help learners and professionals alike strengthen their SQL skills through examples, explanations, and diagrams.
+Welcome to **rdbms-arena**, 
+a comprehensive practice hub for SQL queries across multiple relational database systems including **PostgreSQL**, **MySQL**, and **SQLite**. This repository is designed to help learners and professionals alike strengthen their SQL skills through examples, explanations, and diagrams.
 
 ---
 

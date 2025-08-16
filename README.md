@@ -24,9 +24,7 @@ This project contains:
 - Practice queries for multiple RDBMS platforms
 - Sample database schemas and table structures
 - ERDs (Entity-Relationship Diagrams) for better understanding of relationships
-- Explanation for complex queries and use-cases
-
-It's an ongoing project intended for educational purposes, workshops, and interviews.
+- Explanation for complex queries and use-cases.
 
 ---
 
